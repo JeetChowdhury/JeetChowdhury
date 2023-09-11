@@ -1,4 +1,4 @@
-### Hi there 👋
+### YoHo! 👋
 <p align='center'>
   My Github Stats
 </p>
